@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "grdb.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/groue/GRDB.swift.git",
+      "state" : {
+        "revision" : "e069e2732e3ee2b67bf89c1bda1937da0eaee7ef",
+        "version" : "6.24.2"
+      }
+    },
+    {
+      "identity" : "uipilot",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/canopas/UIPilot.git",
+      "state" : {
+        "revision" : "33b8123dd1e68d861d0cfce27879d5ff1755fd21",
+        "version" : "2.0.2"
+      }
+    }
+  ],
+  "version" : 2
+}
